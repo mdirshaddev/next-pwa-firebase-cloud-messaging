@@ -1,0 +1,21 @@
+# dependencies
+**/node_modules
+
+# production build
+**/dist
+**/build
+
+# next
+**/.next
+
+# pnpm lock file
+pnpm-lock.yaml
+
+# codegen generated
+**/generated
+
+# next-env type file
+**/next-env.d.ts
+
+# storybook build
+*-storybook-build
